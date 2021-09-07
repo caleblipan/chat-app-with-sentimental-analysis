@@ -1,2 +1,2 @@
 # chat-app-with-sentimental-analysis
-Created with CodeSandbox
+Project in development
